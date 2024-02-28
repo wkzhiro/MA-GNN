@@ -1,0 +1,7 @@
+torch==2.1.1
+torch-geometric
+mysql-connector-python
+mysql
+fastapi
+sqlalchemy
+python-dotenv
